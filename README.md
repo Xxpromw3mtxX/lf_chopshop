@@ -8,7 +8,7 @@ Chop shop vehicle job inspired by NoPixel 3.0
 
 ## Requirements
 * Required:
-    * Still in development
+    * [qtarget](https://github.com/overextended/qtarget/releases/latest)
 * Optional:
     * Still in development
 
